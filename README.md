@@ -1,5 +1,5 @@
 # Rayleigh-Ritz theorem
-In this repository, 4 examples are provided to assert the correctness of Rayleigh-Ritz theorem.
+In this repository, 4 **_toy_ _examples_** are provided to assert the correctness of Rayleigh-Ritz theorem.
 Each example solves a different optimization problem which are simple and widely seen in the context of communications.
 
 ## Toy example 1
