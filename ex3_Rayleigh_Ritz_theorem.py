@@ -5,7 +5,7 @@ import numpy as np
 Toy example 3:
 This example is the extended version of the toy examples 1 and 2
 Let
-    A = u^H u and B = v^H v
+    A = u u^H and B = v v^H
 and
     f(w) = (1 + w^H A w) / (1 + w^H B w)
 with w^H being Hermitian of w.
